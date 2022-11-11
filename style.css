@@ -7,8 +7,9 @@
 
 body{
     background: url("body-backgrund.avif");
-    background-position: cover;
-    background:no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
 }
 
 #hero{
